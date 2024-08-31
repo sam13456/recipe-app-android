@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/splitmoong/RecipeApp/assets/77825583/d4463f48-1235-415b-b76f-044183320607" width="400">
+      <img src="https://github.com/user-attachments/assets/06c3f614-b435-4cd5-8f7f-22b09015d292" >
     </td>
     <td valign="top">
       Created a Recipe Application on Android using Kotlin. <br>
